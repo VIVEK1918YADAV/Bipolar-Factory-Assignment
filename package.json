@@ -1,0 +1,40 @@
+{
+  "name": "bipolar-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.4",
+    "@mui/material": "^5.15.4",
+    "@mui/x-charts": "^6.18.7",
+    "next": "13.5.6",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.6.8",
+    "@storybook/addon-interactions": "^7.6.8",
+    "@storybook/addon-links": "^7.6.8",
+    "@storybook/addon-onboarding": "^1.0.10",
+    "@storybook/blocks": "^7.6.8",
+    "@storybook/jest": "^0.2.3",
+    "@storybook/nextjs": "^7.6.8",
+    "@storybook/react": "^7.6.8",
+    "@storybook/test": "^7.6.8",
+    "@storybook/testing-library": "^0.2.2",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.6",
+    "eslint-plugin-storybook": "^0.6.15",
+    "storybook": "^7.6.8"
+  }
+}
