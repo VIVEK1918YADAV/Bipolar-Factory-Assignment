@@ -49,6 +49,6 @@ Make sure you have the following software installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:vivek1918yadav/bipolar-assignment.git
+   git clone git@github.com/VIVEK1918YADAV/Bipolar-Factory-Assignment.git
 
 
